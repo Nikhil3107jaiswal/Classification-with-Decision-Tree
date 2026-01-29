@@ -1,4 +1,4 @@
-# 🛒 Purchase Prediction using Decision Tree Classifier
+# 🛒 iPhone Purchase Prediction using Decision Tree Classifier
 
 ## 📌 Project Overview
 
